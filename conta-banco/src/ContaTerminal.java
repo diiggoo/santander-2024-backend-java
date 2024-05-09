@@ -1,3 +1,5 @@
+import org.w3c.dom.ls.LSOutput;
+
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -24,7 +26,7 @@ public class ContaTerminal {
 
         System.out.println("Digite seu saldo: ");
         double balance = scanner.nextDouble();
-
+        
         //imprime dados
         System.out.println("Olá " + customerName + ", obrigado por criar uma conta em nosso banco, sua agência é " +agency+ ", conta " + accountNumber + " e seu saldo " + balance + " já está disponível para saque");
 

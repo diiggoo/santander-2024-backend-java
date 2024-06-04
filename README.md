@@ -16,7 +16,9 @@ O objetivo deste desafio é entender e praticar os pilares da Programação Orie
 Para tornar o aprendizado mais interessante e relevante, aplicamos esses conceitos no domínio de um bootcamp. Neste cenário, aplicamos:
 
 - Cadastrar desenvolvedores
+- Criar e gerenciar Cursos
 - Criar e gerenciar conteúdos
+- Criar e gerenciar Mentorias
 - Aplicar gamificação incrementando "XP" dos participantes
 
 

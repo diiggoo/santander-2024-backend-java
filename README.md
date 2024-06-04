@@ -13,7 +13,7 @@ O objetivo deste desafio é entender e praticar os pilares da Programação Orie
 
 ## Contexto do Desafio
 
-Para tornar o aprendizado mais interessante e relevante, aplicamos esses conceitos no domínio de um bootcamp. Neste cenário, você poderá:
+Para tornar o aprendizado mais interessante e relevante, aplicamos esses conceitos no domínio de um bootcamp. Neste cenário, aplicamos:
 
 - Cadastrar desenvolvedores
 - Criar e gerenciar conteúdos

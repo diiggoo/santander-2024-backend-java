@@ -1,1 +1,1 @@
-# santander-2024-backend-java
+# Repositório criado para elaboração dos conteúdos do Santander Bootcamp Java 2024.

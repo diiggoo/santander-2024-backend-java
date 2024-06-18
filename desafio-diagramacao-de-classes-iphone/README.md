@@ -1,6 +1,6 @@
 # Diagrama UML das funcionalidades do Iphone (versão de lançamento)
 
-Este diagrama de classes UML representa as funcionalidades do iPhone como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet, conforme apresentado no vídeo de lançamento do primeiro iPhone por Steve Jobs em 2007.
+Este diagrama de classes UML representa as funcionalidades do primeiro iPhone como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet, conforme apresentado no vídeo de lançamento do iPhone por Steve Jobs em 2007.
 
 ```mermaid
 classDiagram

@@ -5,7 +5,6 @@ classDiagram
         +String address
         +String type
         +float value
-        +float area
     }
 
     class Client {
@@ -16,6 +15,7 @@ classDiagram
     }
 
     class Contract {
+        +String contractNumber
         +Date startDate
         +float amount
         +int term
